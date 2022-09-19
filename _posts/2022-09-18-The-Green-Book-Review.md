@@ -60,7 +60,7 @@ History and law obviously played a large part in this project. The laws of that 
 ## Technology Used
 The Navigating The Green Book project was created using data collected by the [NYPL Labs digitization project](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=navigation). Data was extracted from the 1947 volume of The Negro Motorist Green Book using optical character recognition (OCR), to extract text and coordinate data, and the Scribe framework, to correct and make final adjustments to the information. The various volumes of The Green Book were digitized by way of this project and utilized to create the Navigating The Green Book Project. 
 
-![digital volumes of The Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/NYPL Project.png)
+![digital volumes of The Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/NYPLProject.png)
 
 The entirety of the project is an interactive map. The inclusion of this map makes this project stand out from more traditional scholarship, as it makes the information more accessible and attainable. The map was exceedingly easy for me to operate and I would assume the same for other new viewers. I greatly appreciated the opportunity to view this data in such a tangible way. 
 
