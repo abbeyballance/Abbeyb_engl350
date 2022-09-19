@@ -5,6 +5,8 @@ Project Director(s): Paul Beaudoin, Brian Foo, Josh Hardo, Matt Miller, Schombur
 Project URL: http://publicdomain.nypl.org/greenbook-map/
 
 # Review of The Navigating The Green Book Project
+By: Abbey Ballance
+
 ![cover of the Negro Motorist Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/Green Book Photo.jpeg)
 ![project home page](https://abbeyballance.github.io/Abbeyb_engl350/images/Cover.png)
 
