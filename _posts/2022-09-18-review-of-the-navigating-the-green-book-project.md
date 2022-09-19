@@ -2,10 +2,6 @@
 
 
 
-![cover of the Negro Motorist Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/greenbookcover.jpeg)
-
-
-
 Project: Navigating the Green Book 
 
 Project Directors: Paul Beaudoin, Brian Foo, Josh Hardo, Matt Miller, Schomburg Center for Research in Black Culture, SC Digital Academy, and the Digital Collections and African American Studies departments of the University of South Carolina 
@@ -33,6 +29,10 @@ Victor Green, a New Jersey postal worker, wrote the first volume of _The Negro M
 
 
 ![Victor Green Photo](https://abbeyballance.github.io/Abbeyb_engl350/images/victorgreenphoto.png)
+
+
+
+![cover of the Negro Motorist Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/greenbookcover.jpeg)
 
 
 
