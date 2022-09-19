@@ -28,7 +28,6 @@ There are two intended audiences for this project. The first group would be Blac
 ##Humanistic Claims and Evidence
 There are various fields in the humanities that this project can relate to and identify with, including: ethnic studies, multicultural and regional studies, geography, history, and law. 
 
-
 ###Area and Ethnic Studies
 According to Brown University, [Area and Ethnic Studies](https://bulletin.brown.edu/the-college/concentrations/eths/) examines the, “construction of race and ethnicity in social, cultural, historical, political, and economic contexts.” 
 The entirety of the Navigating The Green Book project is centered around these ideas, specifically how racism and racial segregation affected and limited Black Americans traveling in the mid 1900s. 
@@ -36,7 +35,6 @@ The entirety of the Navigating The Green Book project is centered around these i
 Further, one could examine how economies were affected at this time, using The Green Book’s data, as Black Americans could only buy, dine, and visit a limited number of businesses. Without this project, knowledge about The Green Book itself and, concurrently, an aspect and supporting example of area and ethnic studies, would not be as known or accessible to the public. 
 
 The project does an excellent job explaining its connection to this field of study by way of its existence and the inclusion of the [introduction from the 1949 edition of _The Negro Motorist Green Book_](https://digitalcollections.nypl.org/items/9e004590-8df4-0132-bce5-58d385a7b928) on the homepage. This introduction is an example of a Black American’s perspective that would be reviewed by ethnic studies scholars alike. 
-
 
 ###Multicultural and Regional Studies
 Multicultural and regional studies is another field of humanities that are intertwined within the Navigating The Green Book Project. According to [Gale](https://www.gale.com/multicultural-and-regional-studies#:~:text=Investigate%20the%20academic%20discipline%20of,different%20cultural%20and%20geographic%20backgrounds.), Multicultural and Regional Studies is a field of humanities that is, “a way of teaching and learning that incorporates the histories, texts, values, beliefs, and perspectives of people from different cultural and geographic backgrounds.” 
@@ -52,11 +50,13 @@ The interactivity of the project sheds light on the influence of geography on th
 
 History and law obviously played a large part in this project. The laws of that time and the overall history of America are both put on visual display and made to be interactive by viewers. This opportunity shows the limitations of the law at that time and how history was unfair to Black Americans. Overall, this project’s inclusion of history and law  sheds light on the inconveniences Black Americans had to deal with while traveling. 
 
+
 ##Technology Used
 The Navigating The Green Book project was created using data collected by the [NYPL Labs digitization project](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=navigation). Data was extracted from the 1947 volume of The Negro Motorist Green Book using optical character recognition (OCR), to extract text and coordinate data, and the Scribe framework, to correct and make final adjustments to the information. The various volumes of The Green Book were digitized by way of this project and utilized to create the Navigating The Green Book Project. 
 ![digital volumes of The Green Book](images/NYPL Project.png)
 
 The entirety of the project is an interactive map. The inclusion of this map makes this project stand out from more traditional scholarship, as it makes the information more accessible and attainable. The map was exceedingly easy for me to operate and I would assume the same for other new viewers. I greatly appreciated the opportunity to view this data in such a tangible way. 
+
 
 ##Interesting and Problematic Issues
 This project is exceedingly valuable in every aspect. It draws attention to various other humanities fields, while shedding light on the hardships faced by Black Americans in the mid 1900s. This project caught my attention, because I had never heard of _The Negro Motorist Green Book_ before. It boggles my mind that these travel guides were not only used, but necessary. Further, they were imminently useful and important, but were unfortunately not widely distributed at the time of publication. 
