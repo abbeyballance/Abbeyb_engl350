@@ -7,19 +7,19 @@ Project URL: http://publicdomain.nypl.org/greenbook-map/
 # Review of The Navigating The Green Book Project
 By: Abbey Ballance
 
-![cover of the Negro Motorist Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/GreenBookPhoto.jpeg)
+![cover of the Negro Motorist Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/greenbookcover.jpeg)
 
 ![project home page](https://abbeyballance.github.io/Abbeyb_engl350/images/Cover.png)
 
 # Project Overview 
 Navigating the Green Book is a digital humanities project funded by the New York Public Library Labs (NYPL). It is a digitized and interactive compilation of the 1947 and 1956 volumes of _The Negro Motorist Green Book_, also known as The Green Book. On the Navigating The Green Book project site, you can be transported back to the Civil Rights Movement era. You can [view a nationwide map](https://publicdomain.nypl.org/greenbook-map/map.html#layer=cluster&year=1947) or [map a trip](https://publicdomain.nypl.org/greenbook-map/trip.html), in cluster or heat map view, of the 2,301 businesses where black people would be welcome at that time.
 
-![view map](https://abbeyballance.github.io/Abbeyb_engl350/images/ViewMap.png)
-![map a trip](https://abbeyballance.github.io/Abbeyb_engl350/images/MapATrip.png)
+![view map](https://abbeyballance.github.io/Abbeyb_engl350/images/viewmap.png)
+![map a trip](https://abbeyballance.github.io/Abbeyb_engl350/images/mapatrip.png)
 
 Victor Green, a New Jersey postal worker, wrote the first volume of _The Negro Motorist Green Book_ in 1937. Throughout the mid to late 1900s, black people utilized these books as travel directories to identify where they would be welcome and safe, in light of segregation laws. Locations and businesses listed within these books included hotels, restaurants, beauty salons, nightclubs, bars, and gas stations. 
 
-![Victor Green Photo](https://abbeyballance.github.io/Abbeyb_engl350/images/VictorGreenPhoto.png)
+![Victor Green Photo](https://abbeyballance.github.io/Abbeyb_engl350/images/victorgreenphoto.png)
 
 ## Creators and Contributors
 There was a team of experts, from various fields, that contributed to making the Navigating The Green Book Project a reality. At the bottom of the [Navigating The Green Book Project page](http://publicdomain.nypl.org/greenbook-map/) you can find a credit list of creators and contributors.
@@ -60,7 +60,7 @@ History and law obviously played a large part in this project. The laws of that 
 ## Technology Used
 The Navigating The Green Book project was created using data collected by the [NYPL Labs digitization project](https://digitalcollections.nypl.org/collections/the-green-book#/?tab=navigation). Data was extracted from the 1947 volume of The Negro Motorist Green Book using optical character recognition (OCR), to extract text and coordinate data, and the Scribe framework, to correct and make final adjustments to the information. The various volumes of The Green Book were digitized by way of this project and utilized to create the Navigating The Green Book Project. 
 
-![digital volumes of The Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/NYPLProject.png)
+![digital volumes of The Green Book](https://abbeyballance.github.io/Abbeyb_engl350/images/nyplproject.png)
 
 The entirety of the project is an interactive map. The inclusion of this map makes this project stand out from more traditional scholarship, as it makes the information more accessible and attainable. The map was exceedingly easy for me to operate and I would assume the same for other new viewers. I greatly appreciated the opportunity to view this data in such a tangible way. 
 
