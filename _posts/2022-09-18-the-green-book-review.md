@@ -1,6 +1,3 @@
-# Review of The Navigating The Green Book Project
-By: Abbey Ballance
-
 
 Project: Navigating the Green Book 
 
