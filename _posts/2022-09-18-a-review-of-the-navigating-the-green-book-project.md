@@ -1,8 +1,4 @@
-Project: Navigating the Green Book 
-
-Project Directors: Paul Beaudoin, Brian Foo, Josh Hardo, Matt Miller, Schomburg Center for Research in Black Culture, SC Digital Academy, and the Digital Collections and African American Studies departments of the University of South Carolina 
-
-Project URL: http://publicdomain.nypl.org/greenbook-map/
+![project home page](https://abbeyballance.github.io/Abbeyb_engl350/images/Cover.png)
 
 
 
@@ -10,7 +6,12 @@ Project URL: http://publicdomain.nypl.org/greenbook-map/
 
 
 
-![project home page](https://abbeyballance.github.io/Abbeyb_engl350/images/Cover.png)
+Project: Navigating the Green Book 
+
+Project Directors: Paul Beaudoin, Brian Foo, Josh Hardo, Matt Miller, Schomburg Center for Research in Black Culture, SC Digital Academy, and the Digital Collections and African American Studies departments of the University of South Carolina 
+
+Project URL: http://publicdomain.nypl.org/greenbook-map/
+
 
 
 
