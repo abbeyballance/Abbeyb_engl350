@@ -1,6 +1,7 @@
 # Review of The Navigating The Green Book Project
 By: Abbey Ballance
 
+
 Project: Navigating the Green Book 
 
 Project Directors: Paul Beaudoin, Brian Foo, Josh Hardo, Matt Miller, Schomburg Center for Research in Black Culture, SC Digital Academy, and the Digital Collections and African American Studies departments of the University of South Carolina 
