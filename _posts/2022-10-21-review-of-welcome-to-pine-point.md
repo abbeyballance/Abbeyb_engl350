@@ -90,6 +90,8 @@ Next, in the “PinePointers” section, there is a voiceover of the people talk
 
 In the “Ends and Odds” section, the text appears first and then the badges fill the screen and cover up the text. Viewers are able to toggle the badges and move them around the screen. However, there are no directions for this, so without first attempting, viewers could just stare at the screen waiting for the badges to move. 
 
+
+![photo of ends and odds page with stamps](https://abbeyballance.github.io/Abbeyb_engl350/images/stamps.png)
 In the “Shelf Life” section, there are photos/graphics to click through and review while the audio is playing. There is no description of these photos, so viewers don’t exactly know what they are looking at. 
 
 # Relation to my Project
