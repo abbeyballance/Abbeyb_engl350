@@ -8,7 +8,7 @@ Project: Welcome to Pine Point
 Project Director(s): Paul Shoebridge and Michael Simons of The Goggles 
 
 Project URL: 
-(https://pinepoint.nfb.ca/?_gl=1*h7j8i9*_ga*NTQyNjU4ODgzLjE2NjQ5Mjc0ODM.*_ga_EP6WV87GNV*MTY2NjEzODI0Mi40LjAuMTY2NjEzODI0Mi4wLjAuMA..)
+https://pinepoint.nfb.ca/?_gl=1*h7j8i9*_ga*NTQyNjU4ODgzLjE2NjQ5Mjc0ODM.*_ga_EP6WV87GNV*MTY2NjEzODI0Mi40LjAuMTY2NjEzODI0Mi4wLjAuMA..
 
 
 
