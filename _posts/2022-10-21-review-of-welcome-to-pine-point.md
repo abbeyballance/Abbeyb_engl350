@@ -18,7 +18,7 @@ The Digital Humanities project [Welcome to Pine Point](https://pinepoint.nfb.ca/
 
 
 
-![past and present photos of town](https://abbeyballance.github.io/Abbeyb_engl350images/thenandnow.png)
+![past and present photos of town](https://abbeyballance.github.io/Abbeyb_engl350/images/thenandnow.png)
 
 
 
@@ -74,10 +74,10 @@ The inclusion of photos, videos, and artifacts of and from Pine Point significan
 Reading about the lives of four former community members and their “then and now” stories, made the town feel real. Looking at pictures of the landscape and group photos did not feel intimate or made me feel connected to the town in any way. It was just like watching a fictitious movie. However, reading in-depthly about these people’s lives and hearing their voices, affirmed that the town did, in fact, exist and these people were, in fact, impacted by its disappearance. It is a part of them, it shaped them, it made them who they are today. 
 
 
-![Kim Kastle's photo collage](https://abbeyballance.github.io/Abbeyb_engl350images/kim.png)
+![Kim Kastle's photo collage](https://abbeyballance.github.io/Abbeyb_engl350/images/kim.png)
 
 
-![Lyle and Wayne Hryniuk's photo collage](https://abbeyballance.github.io/Abbeyb_engl350images/images/lyleandwayne.png)
+![Lyle and Wayne Hryniuk's photo collage](https://abbeyballance.github.io/Abbeyb_engl350/images/lyleandwayne.png)
 
 
 ![Richard Cloutier's photo collage](https://abbeyballance.github.io/Abbeyb_engl350/images/richard.png)
@@ -92,6 +92,8 @@ In the “Ends and Odds” section, the text appears first and then the badges f
 
 
 ![photo of ends and odds page with stamps](https://abbeyballance.github.io/Abbeyb_engl350/images/stamps.png)
+
+
 In the “Shelf Life” section, there are photos/graphics to click through and review while the audio is playing. There is no description of these photos, so viewers don’t exactly know what they are looking at. 
 
 # Relation to my Project
