@@ -1,7 +1,7 @@
 # Reflection
 
 
-	I initially enrolled in this course simply because I needed another elective to support my writing minor. I genuinely had no idea what “Digital Humanities” was or what we would be learning in the class. After almost completing the course, I can confidently say that my notion of Digital Humanities, DH, was undoubtedly false at the beginning of the semester. 
+I initially enrolled in this course simply because I needed another elective to support my writing minor. I genuinely had no idea what “Digital Humanities” was or what we would be learning in the class. After almost completing the course, I can confidently say that my notion of Digital Humanities, DH, was undoubtedly false at the beginning of the semester. 
 
 I was under the impression that DH was any digital work involving a field of the humanities (i.e. online history articles). In hindsight, I think that was a fair assumption based on the name and my limited knowledge; however, I now know that DH is much, much more than that. 
 
